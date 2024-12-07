@@ -4,7 +4,7 @@
 ![version](https://img.shields.io/npm/v/limechatt.js)
  ![downloads](https://img.shields.io/npm/dt/limechatt.js.svg) ![license](https://img.shields.io/npm/l/limechatt.js.svg)
 
----
+--- 
 
 ```javascript
 const {Client} = require('limechatt.js')
