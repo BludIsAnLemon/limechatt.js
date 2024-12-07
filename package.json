@@ -1,0 +1,20 @@
+{
+  "name": "limechatt.js",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "limechatt",
+    "bot"
+  ],
+  "author": "@lemon22blud",
+  "license": "Apache-2.0",
+  "description": "A module for making LimeChatt Bots.",
+  "dependencies": {
+    "events": "^3.3.0",
+    "mim": "^0.3.1",
+    "ws": "^8.18.0"
+  }
+}
