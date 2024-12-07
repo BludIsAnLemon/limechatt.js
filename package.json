@@ -9,6 +9,10 @@
     "limechatt",
     "bot"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BludIsAnLemon/limechatt.js"
+  },
   "author": "@lemon22blud",
   "license": "Apache-2.0",
   "description": "A module for making LimeChatt Bots.",
